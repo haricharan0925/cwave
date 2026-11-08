@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive-icon foreground: the artwork's own rounded plate is cropped away by the launcher mask;
+     a small inset keeps the "C" inside the 66% safe zone. -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_app_icon"
+    android:inset="10%" />

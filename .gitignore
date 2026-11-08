@@ -1,0 +1,46 @@
+# =====================
+# Android / Gradle
+# =====================
+
+# Gradle caches and wrapper
+.gradle/
+gradle/wrapper/gradle-wrapper.jar
+
+# Build outputs
+build/
+**/build/
+
+# Local configuration (SDK path, signing configs, etc.)
+local.properties
+
+# Android Studio / IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+.DS_Store
+
+# Keystore / signing files — keep secrets out of VCS!
+*.jks
+*.keystore
+keystore.properties
+release.keystore
+
+# Kotlin incremental compilation cache
+.kotlin/
+
+# Navigation safe-args generated files
+**/*Args.kt
+**/*Directions.kt
+
+# Google Services (uncomment if file contains secrets)
+# google-services.json
+
+# deepeval / AI tooling cache
+.deepeval
+
+# OS / editor clutter
+Thumbs.db
+*.swp
+*.swo
+*~

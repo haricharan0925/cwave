@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash icon: the app icon artwork, inset so the circular splash mask keeps the whole "C". -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_app_icon"
+    android:inset="14%" />
